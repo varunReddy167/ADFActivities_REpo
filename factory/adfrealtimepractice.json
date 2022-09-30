@@ -1,0 +1,9 @@
+{
+	"name": "adfrealtimepractice",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "73e1e482-5eb9-4140-a028-82002ae028fe",
+		"tenantId": "7a84117c-2fcd-487c-8dfc-9da60c7a8a41"
+	}
+}
